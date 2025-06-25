@@ -1,2 +1,5 @@
-# MS-102
-MS-102 Course - additional information
+# MS-102 
+
+This repo has some additional and useful information for course MS-102.
+
+by DIST
